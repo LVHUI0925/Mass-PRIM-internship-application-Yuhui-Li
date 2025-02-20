@@ -69,9 +69,6 @@ To keep the documentation succinct, I have included only a poster and a brief re
 - **`TimeSeries_DimensionalityReduction_Poster.pdf`**  
   A concise visual summary of the t-SNE, UMAP, and PCA comparison project, along with the rolling robust method.
 
-- **`TimeSeries_DimensionalityReduction_Report.pdf`**  
-  A brief written report detailing the methodology and results of the dimensionality reduction project.
-
 - **`OutlierDetectionSystem_Poster.pdf`**  
   A high-level overview of the outlier detection framework, showcasing the eight methods and how the voting system is constructed.
 
